@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Watch store",
+        "imageSrc": "projects/project1.jpg",
+        "description": "This is online watch store built using HTML, CSS, JavaScript and Springboot",
+        "skills": ["HTML", "CSS", "JavaScript", "Springboot"],
+        "source": "https://www.example.com"
+    },
+    {
+        "title": "Bennett",
+        "imageSrc": "projects/project2.png",
+        "description": "This website was built using HTML, CSS, JavaScript and Bootsrap. CMS has plugged for backend",
+        "skills": ["HTML", "CSS", "JavaScript", "Springboot"],
+        "source": "https://www.example.com"
+    },
+    {
+        "title": "Portfolio",
+        "imageSrc": "projects/project3.png",
+        "description": "This is a portfolio website built using React JS.",
+        "skills": ["CSS", "React JS"],
+        "source": "https://www.example.com"
+    }
+]

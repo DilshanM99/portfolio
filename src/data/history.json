@@ -1,0 +1,10 @@
+[
+    {
+        "role": "Web Developer",
+        "organisation": "Dimensions IT",
+        "startDate": "Sep, 2023",
+        "endDate": "Present",
+        "experiences": ["Developing websites", "Checking responsiveness and cross-browsing compatibility", "Manitaining and updating websites"],
+        "imageSrc": "history/dit.jpg"
+    }
+]
