@@ -1,0 +1,38 @@
+@import "../../vars.css";
+
+.container{
+    color: var(--color-text);
+    margin-top: 60px;
+    width: 100vw;
+    padding: 60px 10%;
+    gap: 50px;
+}
+
+.header{
+    font-size: 70px;
+    font-weight: 700;
+    letter-spacing: 4px;
+    line-height: 1.5;
+    margin-bottom: 50px;
+}
+
+.container div{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+
+.container div>img{
+    width: 100%;
+}
+
+@media screen and (max-width:830px) {
+    .container{
+        margin-top: 0;
+    }
+
+    .header{
+        font-size: 40px;
+    }
+    
+}

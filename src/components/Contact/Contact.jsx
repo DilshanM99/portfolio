@@ -28,7 +28,7 @@ export const Contact = () => {
             src={getImageUrl("contact/linkedinIcon.png")}
             alt="linkedin icon"
           />
-          <a  href="https://www.linkedin.com/in/dilshan-madhuranga-423642245" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/dilshan-madhuranga-423642245</a>
+          <a  href="https://www.linkedin.com/in/dilshan-madhuranga-423642245" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/dilshan</a>
         </li>
 
         <li className={styles.link}>

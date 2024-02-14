@@ -4,20 +4,36 @@
         "imageSrc": "projects/project1.jpg",
         "description": "This is online watch store built using HTML, CSS, JavaScript and Springboot",
         "skills": ["HTML", "CSS", "JavaScript", "Springboot"],
-        "source": "https://www.example.com"
+        "source": ""
     },
     {
         "title": "Bennett",
         "imageSrc": "projects/project2.png",
         "description": "This website was built using HTML, CSS, JavaScript and Bootsrap. CMS has plugged for backend",
-        "skills": ["HTML", "CSS", "JavaScript", "Springboot"],
-        "source": "https://www.example.com"
+        "skills": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+        "source": "https://bennet-electricals.netlify.app/"
     },
     {
         "title": "Portfolio",
         "imageSrc": "projects/project3.png",
         "description": "This is a portfolio website built using React JS.",
         "skills": ["CSS", "React JS"],
-        "source": "https://www.example.com"
+        "source": "https://dilshan-madhuranga-portfolio.netlify.app/"
+    },
+
+    {
+        "title": "P & D Motors",
+        "imageSrc": "projects/project4.png",
+        "description": "This website was built using HTML, CSS, JavaScript and Bootsrap. CMS has plugged for backend",
+        "skills": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+        "source": "https://panddmotors.netlify.app/"
+    },
+
+    {
+        "title": "The dorah",
+        "imageSrc": "projects/project5.png",
+        "description": "This is a blogger website and it was built using wordpress",
+        "skills": ["Wordpress"],
+        "source": "https://thedorah.wordpress.com/"
     }
 ]

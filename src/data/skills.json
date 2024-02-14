@@ -23,5 +23,15 @@
     {
         "title":"SQL",
         "imageSrc": "skills/sql.png"
+    },
+
+    {
+        "title":"Wordpress",
+        "imageSrc": "skills/wordpress.png"
+    },
+
+    {
+        "title":"PHP",
+        "imageSrc": "skills/php.png"
     }
 ]
