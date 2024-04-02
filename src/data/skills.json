@@ -16,6 +16,14 @@
         "imageSrc": "skills/react.png"
     },
     {
+        "title":"Redux",
+        "imageSrc": "skills/redux.png"
+    },
+    {
+        "title":"Java",
+        "imageSrc": "skills/java.png"
+    },
+    {
         "title":"Bootstrap",
         "imageSrc": "skills/bootstrap.png"
     },

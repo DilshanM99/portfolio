@@ -27,7 +27,7 @@ const Certificate = () => {
         </div>
         <div>
           <img
-            src={getImageUrl("certificates/certificate-2.png")}
+            src={getImageUrl("certificates/certificate-2.jpeg")}
             alt="certificate"
             className={styles.certificatemage}
           />
@@ -35,6 +35,20 @@ const Certificate = () => {
         <div>
           <img
             src={getImageUrl("certificates/certificate-3.jpg")}
+            alt="certificate"
+            className={styles.certificatemage}
+          />
+        </div>
+        <div>
+          <img
+            src={getImageUrl("certificates/certificate-4.png")}
+            alt="certificate"
+            className={styles.certificatemage}
+          />
+        </div>
+        <div>
+          <img
+            src={getImageUrl("certificates/certificate-5.png")}
             alt="certificate"
             className={styles.certificatemage}
           />

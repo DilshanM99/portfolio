@@ -3,8 +3,9 @@
         "role": "Web Developer",
         "organisation": "Dimensions IT",
         "startDate": "Sep, 2023",
-        "endDate": "Present",
-        "experiences": ["Developing websites", "Checking responsiveness and cross-browsing compatibility", "Manitaining and updating websites"],
+        "endDate": "March, 2024",
+        "description": "I worked as intern web developer and completed more than 20 projects during the 6 month intern period and developed skills in",
+        "experiences": [" Front end development of websites", "Checking responsiveness and cross-browsing compatibility", "Manitaining and updating websites", "Web hosting", " Quality Assurance and maintenance"],
         "imageSrc": "history/dit.jpg"
     }
 ]

@@ -1,32 +1,43 @@
 [
     {
-        "title": "Watch store",
-        "imageSrc": "projects/project1.jpg",
-        "description": "This is online watch store built using HTML, CSS, JavaScript and Springboot",
-        "skills": ["HTML", "CSS", "JavaScript", "Springboot"],
-        "source": ""
+        "title": "Todo App",
+        "imageSrc": "projects/project6.png",
+        "description": "This web application  enabling users to manage tasks efficiently. It facilitates task creation, updating, and deletion functionalities, with an intuitive interface for filtering tasks by completion status.",
+        "skills": ["ReactJS", "Redux", "SCSS"],
+        "demo" : "https://react-todo-app-2024.netlify.app/",
+        "source": "https://github.com/DilshanM99/todo-app"
+    },
+    {
+        "title": "Weather App",
+        "imageSrc": "projects/project7.png",
+        "description": "This web application enabling users to check current weather and 7-day forecasts. Utilized APIs for real-time data retrieval and designed an intuitive interface for seamless navigation.",
+        "skills": ["ReactJS", "API intergration", "CSS"],
+        "demo" : "https://react-weather-app-with-forecast.netlify.app/",
+        "source": "https://github.com/DilshanM99/react-weather-app"
+    },
+    {
+        "title": "Portfolio",
+        "imageSrc": "projects/project3.png",
+        "description": " Built a dynamic portfolio site with responsive design, showcasing personal projects, skills, and experience, while enhancing user engagement with animated components.",
+        "skills": ["CSS", "React JS"],
+        "demo" : "https://dilshan-madhuranga-portfolio.netlify.app/",
+        "source": "https://github.com/DilshanM99/portfolio"
     },
     {
         "title": "Bennett",
         "imageSrc": "projects/project2.png",
         "description": "This website was built using HTML, CSS, JavaScript and Bootsrap. CMS has plugged for backend",
         "skills": ["HTML", "CSS", "JavaScript", "Bootstrap"],
-        "source": "https://bennet-electricals.netlify.app/"
+        "demo" : "https://bennet-electricals.netlify.app/",
+        "source": "#"
     },
-    {
-        "title": "Portfolio",
-        "imageSrc": "projects/project3.png",
-        "description": "This is a portfolio website built using React JS.",
-        "skills": ["CSS", "React JS"],
-        "source": "https://dilshan-madhuranga-portfolio.netlify.app/"
-    },
-
     {
         "title": "P & D Motors",
         "imageSrc": "projects/project4.png",
         "description": "This website was built using HTML, CSS, JavaScript and Bootsrap. CMS has plugged for backend",
         "skills": ["HTML", "CSS", "JavaScript", "Bootstrap"],
-        "source": "https://panddmotors.netlify.app/"
+        "demo" : "https://panddmotors.netlify.app/",
+        "source": "#"
     },
 
     {
@@ -34,6 +45,15 @@
         "imageSrc": "projects/project5.png",
         "description": "This is a blogger website and it was built using wordpress",
         "skills": ["Wordpress"],
-        "source": "https://thedorah.wordpress.com/"
+        "demo" : "https://thedorah.wordpress.com/",
+        "source": "#"
+    },
+    {
+        "title": "Watch store",
+        "imageSrc": "projects/project1.jpg",
+        "description": "This is online watch store built using HTML, CSS, JavaScript and Springboot",
+        "skills": ["HTML", "CSS", "JavaScript", "Springboot"],
+        "demo" : "#",
+        "source": "#"
     }
 ]
