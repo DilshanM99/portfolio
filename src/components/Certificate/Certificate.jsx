@@ -10,9 +10,29 @@ const Certificate = () => {
   var settings = {
     dots: true,
     infinite: true,
-    speed: 500,
+    speed: 1000,
     slidesToShow: 3,
-    slidesToScroll: 1
+    slidesToScroll: 1,
+    swipeToSlide: true,
+    initialSlide: 0,
+    autoplay: true,
+    autoplaySpeed: 2000,
+    responsive: [
+      {
+        breakpoint: 1024,
+        settings: {
+          slidesToShow: 2,
+        },
+      },
+      {
+        breakpoint: 600,
+        settings: {
+          dots: false,
+          slidesToShow: 1,
+          initialSlide: 2,
+        },
+      },
+    ],
   };
   return (
     <section className={styles.container}>
